@@ -5,6 +5,10 @@
     <Authors>Binu Bhasuran</Authors>
     <Version>2.0.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/codeno47/efc-core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/codeno47/efc-core</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
